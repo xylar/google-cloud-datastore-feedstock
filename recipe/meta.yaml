@@ -1,6 +1,6 @@
 {% set name = "google-cloud-datastore" %}
-{% set version = "1.13.0" %}
-{% set sha256 = "a91e2f54dcfebe06ee65088bf4199a39ec1ad0ad85fad960674bb821fdcc12d2" %}
+{% set version = "1.13.1" %}
+{% set sha256 = "6a0759485b187541a77bd8acc8be544c2631466ee3e1d83f1c88a274ba5ff851" %}
 
 package:
   name: {{ name|lower }}
