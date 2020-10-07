@@ -1,6 +1,6 @@
 {% set name = "google-cloud-datastore" %}
-{% set version = "1.15.0" %}
-{% set sha256 = "c94bc357e975ce7bd5e5636497316c1bf4d015891e0ed96df9e7ce901415b94a" %}
+{% set version = "1.15.2" %}
+{% set sha256 = "cac3e552a116416d84fc04f06e48efebc26278de7d12e917ca16f331af8489c0" %}
 
 package:
   name: {{ name|lower }}
@@ -32,7 +32,7 @@ test:
     - google.cloud.datastore
 
 about:
-  home: https://github.com/GoogleCloudPlatform/google-cloud-python
+  home: https://github.com/googleapis/python-datastore
   license: Apache-2.0
   license_family: APACHE
   license_file: LICENSE
