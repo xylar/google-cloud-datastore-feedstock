@@ -32,7 +32,7 @@ test:
     - google.cloud.datastore
 
 about:
-  home: https://github.com/GoogleCloudPlatform/google-cloud-python
+  home: https://github.com/googleapis/python-datastore
   license: Apache-2.0
   license_family: APACHE
   license_file: LICENSE
