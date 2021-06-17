@@ -17,11 +17,11 @@ build:
 
 requirements:
   host:
-    - python >=2.7
+    - python >=3.6
     - setuptools
     - pip
   run:
-    - python >=2.7
+    - python >=3.6
     - google-cloud-core >=1.4.0, < 2.0dev
     - google-api-core-grpc >=1.14.0, < 2.0.0dev
 
