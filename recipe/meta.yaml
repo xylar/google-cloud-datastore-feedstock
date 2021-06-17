@@ -47,8 +47,8 @@ about:
     your users and supports ACID transactions, high availability of reads
     and writes, strong consistency for reads and ancestor queries, and
     eventual consistency for all other queries.
-  doc_url: https://googleapis.github.io/google-cloud-python/latest/datastore/index.html
-  dev_url: https://github.com/GoogleCloudPlatform/google-cloud-python
+  doc_url: https://googleapis.dev/python/datastore/latest
+  dev_url: https://github.com/googleapis/python-datastore
 
 extra:
   recipe-maintainers:
