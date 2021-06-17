@@ -22,7 +22,7 @@ requirements:
     - pip
   run:
     - python >=3.6
-    - google-api-core-grpc >=1.22.2, < 2.0.0dev
+    - google-api-core-grpc >=1.22.2,<2.0.0dev
 
 test:
   imports:
