@@ -17,11 +17,11 @@ build:
 
 requirements:
   build:
-    - python
+    - python >=2.7
     - setuptools
     - pip
   run:
-    - python
+    - python >=2.7
     - google-cloud-core >=1.4.0, < 2.0dev
     - google-api-core-grpc >=1.14.0, < 2.0.0dev
 
@@ -30,6 +30,8 @@ test:
     - google
     - google.cloud
     - google.cloud.datastore
+    - google.cloud.datastore_v1
+    - google.cloud.datastore_admin_v1
 
 about:
   home: https://github.com/googleapis/python-datastore
@@ -50,3 +52,4 @@ extra:
   recipe-maintainers:
     - mathiaseitz
     - trendelkampschroer
+    - parthea
