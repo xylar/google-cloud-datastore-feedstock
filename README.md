@@ -9,9 +9,9 @@ Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/google-cloud-da
 
 Summary: Python Client for Google Cloud Datastore
 
-Development: https://github.com/GoogleCloudPlatform/google-cloud-python
+Development: https://github.com/googleapis/python-datastore
 
-Documentation: https://googleapis.github.io/google-cloud-python/latest/datastore/index.html
+Documentation: https://googleapis.dev/python/datastore/latest
 
 Google Cloud Datastore API is a fully managed, schemaless database for
 storing non-relational data. Cloud Datastore automatically scales with
